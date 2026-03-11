@@ -6,8 +6,8 @@
 #include <DHT.h>   // TAMBAHAN
 
 // ================= WIFI =================
-const char* ssid = "rdm";
-const char* password = "0987654321";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // ================= MQTT =================
 const char* mqtt_server = "broker.emqx.io";
